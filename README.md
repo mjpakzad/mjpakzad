@@ -15,6 +15,10 @@ I’m Mj, a senior backend developer. My interests range from technology to entr
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
+## Active Projects
+
+[![trigoncms/platform](https://github-readme-stats.vercel.app/api/pin/?username=trigoncms&repo=platform&theme=dracula)](https://github.com/trigoncms/platform)
+
 ## Github Stats
 
 <p align="center">
