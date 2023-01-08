@@ -19,6 +19,7 @@ I’m Mj, a senior backend developer. My interests range from technology to entr
 
 [![trigoncms/platform](https://github-readme-stats.vercel.app/api/pin/?username=trigoncms&repo=platform&theme=dracula)](https://github.com/trigoncms/platform)
 [![laravel-tech/agora](https://github-readme-stats.vercel.app/api/pin/?username=laravel-tech&repo=agora&theme=dracula)](https://github.com/laravel-tech/agora)
+[![laravel-tech/classifieds](https://github-readme-stats.vercel.app/api/pin/?username=laravel-tech&repo=classifieds&theme=dracula)](https://github.com/laravel-tech/classifieds)
 
 ## Github Stats
 
