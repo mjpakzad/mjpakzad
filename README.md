@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-I’m Mj, a senior backend developer. My interests range from technology to entrepreneurship. I am also interested in machine learning and web development.
+I’m Mojtaba, a senior backend developer. My interests range from technology to entrepreneurship. I am also interested in machine learning and web development.
 
 ## Skills
 
@@ -17,9 +17,8 @@ I’m Mj, a senior backend developer. My interests range from technology to entr
 
 ## Active Projects
 
-[![trigoncms/platform](https://github-readme-stats.vercel.app/api/pin/?username=trigoncms&repo=platform&theme=dracula)](https://github.com/trigoncms/platform)
-[![laravel-tech/agora](https://github-readme-stats.vercel.app/api/pin/?username=laravel-tech&repo=agora&theme=dracula)](https://github.com/laravel-tech/agora)
-[![laravel-tech/classifieds](https://github-readme-stats.vercel.app/api/pin/?username=laravel-tech&repo=classifieds&theme=dracula)](https://github.com/laravel-tech/classifieds)
+[![laravel-tech/agora](https://github-readme-stats.vercel.app/api/pin/?username=laravel-tech&repo=agora&theme=dracula)](https://github.com/verlium/agora)
+[![laravel-tech/classifieds](https://github-readme-stats.vercel.app/api/pin/?username=laravel-tech&repo=classifieds&theme=dracula)](https://github.com/verlium/classifieds)
 
 ## Github Stats
 
