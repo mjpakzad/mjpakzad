@@ -17,7 +17,7 @@ Senior Backend Developer with a strong interest in the intersection of technolog
 
 ## Active Projects
 
-[![[mjpakzad/laravel-settings](https://github-readme-stats.vercel.app/api/pin/?username=laravel-tech&repo=agora&theme=dracula)](https://github.com/mjpakzad/laravel-settings)
+[![mjpakzad/laravel-settings](https://github-readme-stats.vercel.app/api/pin/?username=laravel-tech&repo=agora&theme=dracula)](https://github.com/mjpakzad/laravel-settings)
 [![verlium/laravel-cheat-sheet](https://github-readme-stats.vercel.app/api/pin/?username=laravel-tech&repo=classifieds&theme=dracula)](https://github.com/verlium/laravel-cheat-sheet)
 
 ## Github Stats
