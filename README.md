@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-I’m Mojtaba, a senior backend developer. My interests range from technology to entrepreneurship. I am also interested in machine learning and web development.
+Senior Backend Developer with a strong interest in the intersection of technology and business. I enjoy building robust web systems and exploring how machine learning can solve real-world problems.
 
 ## Skills
 
@@ -17,8 +17,8 @@ I’m Mojtaba, a senior backend developer. My interests range from technology to
 
 ## Active Projects
 
-[![laravel-tech/agora](https://github-readme-stats.vercel.app/api/pin/?username=laravel-tech&repo=agora&theme=dracula)](https://github.com/verlium/agora)
-[![laravel-tech/classifieds](https://github-readme-stats.vercel.app/api/pin/?username=laravel-tech&repo=classifieds&theme=dracula)](https://github.com/verlium/classifieds)
+[![[mjpakzad/laravel-settings](https://github-readme-stats.vercel.app/api/pin/?username=laravel-tech&repo=agora&theme=dracula)](https://github.com/mjpakzad/laravel-settings)
+[![verlium/laravel-cheat-sheet](https://github-readme-stats.vercel.app/api/pin/?username=laravel-tech&repo=classifieds&theme=dracula)](https://github.com/verlium/laravel-cheat-sheet)
 
 ## Github Stats
 
